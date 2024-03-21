@@ -28,4 +28,5 @@ This Dart program does not have any external dependencies beyond the Dart SDK.
 This Dart program was authored by Osborn Nyakaru.
 
 ## License
-This Dart program is released under the MIT license. See the LICENSE file for details.
+This Dart program is released under the MIT license. See the LICENSE file for details. [MIT License](https://opensource.org/licenses/MIT)
+
