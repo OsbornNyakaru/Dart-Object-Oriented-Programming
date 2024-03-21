@@ -25,7 +25,7 @@ To run the program:
 This Dart program does not have any external dependencies beyond the Dart SDK.
 
 ## Author
-This Dart program was authored by [Your Name].
+This Dart program was authored by Osborn Nyakaru.
 
 ## License
-This Dart program is released under the [LICENSE NAME] license. See the LICENSE file for details.
+This Dart program is released under the MIT license. See the LICENSE file for details.
